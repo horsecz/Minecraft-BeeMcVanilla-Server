@@ -1,0 +1,54 @@
+# Multiverse-Inventories Groups
+
+# To ADD, DELETE, and EDIT groups use the command /mvinv group.
+# No support will be given for those who manually edit these groups.
+groups:
+  Lobby:
+    worlds:
+    - world
+    shares:
+    - all
+  Creative:
+    worlds:
+    - world_creative_nether
+    - world_creative
+    - world_creative_the_end
+    shares:
+    - all
+  Flat:
+    worlds:
+    - world_flat
+    shares:
+    - all
+  Survival:
+    worlds:
+    - world_the_end
+    - world_survival
+    - world_nether
+    shares:
+    - all
+  Limited:
+    worlds:
+    - world_limited
+    shares:
+    - all
+  LargeBiomes:
+    worlds:
+    - world_large_biomes_nether
+    - world_large_biomes
+    - world_large_biomes_the_end
+    shares:
+    - all
+  Ocean:
+    worlds:
+    - world_ocean
+    - world_ocean_the_end
+    - world_ocean_nether
+    shares:
+    - all
+  Skyblock:
+    worlds:
+    - world_skyblock
+    shares:
+    - all
+

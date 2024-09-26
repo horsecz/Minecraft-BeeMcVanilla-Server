@@ -1,0 +1,11 @@
+command-block-overrides: []
+ignore-vanilla-permissions: false
+aliases:
+  icanhasbukkit:
+  - version $1-
+  lobby:
+  - mv tp lobby
+  dynmap_refreshall:
+  - dynmap fullrender world world_survival world_creative world_flat world_ocean world_limited
+    world_large_biomes world_nether world_creative_nether world_ocean_nether world_large_biomes_nether
+    world_the_end world_ocean_the_end world_large_biomes_the_end world_skyblock

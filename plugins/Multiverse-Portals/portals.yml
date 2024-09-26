@@ -1,0 +1,190 @@
+portals:
+  lobby2survival:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -103.0,144.0,92.0:-103.0,149.0,96.0
+    world: world
+    destination: world_survival
+  lobby2creative:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -91.0,144.0,80.0:-87.0,149.0,80.0
+    world: world
+    destination: world_creative
+  lobby2flat:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -75.0,144.0,92.0:-75.0,149.0,96.0
+    world: world
+    destination: world_flat
+  lobby2ocean:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -91.0,144.0,108.0:-87.0,149.0,108.0
+    world: world
+    destination: world_ocean
+  lobbyPortal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -91.0,143.0,92.0:-87.0,143.0,96.0
+    world: world
+  lobby2limited:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -95.0,144.0,101.0:-95.0,147.0,103.0
+    world: world
+    destination: world_limited
+  lobby2superbiomes:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -83.0,144.0,101.0:-83.0,147.0,103.0
+    world: world
+    destination: world_large_biomes
+  survival_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -3.0,64.0,1.0:-1.0,66.0,1.0
+    world: world_survival
+    destination: b:playerbed
+  creative_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: 16.0,85.0,14.0:16.0,87.0,16.0
+    world: world_creative
+    destination: b:playerbed
+  ocean_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -21.0,65.0,756.0:-21.0,67.0,758.0
+    world: world_ocean
+    destination: b:playerbed
+  flat_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -5.0,-60.0,-1.0:-5.0,-58.0,1.0
+    world: world_flat
+    destination: b:playerbed
+  large_biomes_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -3.0,83.0,2.0:-3.0,85.0,4.0
+    world: world_large_biomes
+    destination: b:playerbed
+  limited_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -33.0,68.0,-76.0:-31.0,70.0,-76.0
+    world: world_limited
+    destination: b:playerbed
+  skyblock_bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: 9.0,66.0,3.0:11.0,68.0,3.0
+    world: world_skyblock
+    destination: b:playerbed
+  skyblock2lobby:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: 9.0,66.0,-3.0:11.0,68.0,-3.0
+    world: world_skyblock
+    destination: p:lobbyPortal
+  lobby2skyblock:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -98.0,144.0,100.0:-96.0,147.0,100.0
+    world: world
+    destination: world_skyblock
+  skyblock2bed:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -1.0,63.0,-9.0:1.0,63.0,-7.0
+    world: world_skyblock
+    destination: b:playerbed
+  skyblock2spawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: -1.0,61.0,-9.0:1.0,61.0,-7.0
+    world: world_skyblock
+    destination: e:world_skyblock:0.0,67.0,-5.0:0.0:0.0
+  skyblockRespawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Horslanda
+    location: 998.0,97.0,998.0:1002.0,97.0,1002.0
+    world: world_skyblock
+    destination: world_skyblock

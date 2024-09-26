@@ -1,0 +1,8 @@
+server.basics:
+       description: Basic permissions for My Cool Server.
+       default: true
+       children:
+              multiverse.signportal.*: true
+              multiverse.access.*: true
+              multiverse.teleport.self.*: true
+              multiverse.core.spawn.self: true
