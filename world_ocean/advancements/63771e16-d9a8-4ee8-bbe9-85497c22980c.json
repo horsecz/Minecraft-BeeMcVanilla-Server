@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2022-10-15 13:02:39 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
