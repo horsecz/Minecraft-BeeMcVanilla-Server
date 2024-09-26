@@ -1,6 +1,6 @@
 # Minecraft Server: BeeVanilla
 
-Vanilla server with Multiverse plugin, enabling possibility to play more gamemodes & maps at one place - server.
+Vanilla server with Multiverse plugin, enabling possibility to play more gamemodes & maps at one place - server. The idea was to have one save (therefore Minecraft server) for playing multiple worlds, modes and difficulties on singleplayer, also with preserving the worlds somewhere on cloud - so once I return to playing Minecraft, I can continue where I've left or go far away and start over.
 
 
 ## Core information
@@ -46,17 +46,19 @@ Everything is made for most clean Vanilla experience with just extra possibility
 
 The default area all players will spawn, when they join the server first time. Relatively small sphere with multiple portals in it. These portals teleport player to different worlds.
 
-### Creative
-
-Classic world with creative mode.
-
 ### Survival
 
 Survival world with normal difficulty.
 
+### Creative
+
+Classic world with creative mode.
+
 ### Flat
 
-Flat world with creative mode. Nether and The End portals do not work in this world.
+Flat world with creative mode.
+
+*Nether and The End portals do not work in this world.*
 
 ### Large Biomes
 
@@ -68,6 +70,8 @@ Survival world with normal difficulty, which attempts to simulate old Minecraft 
 
 World boundaries are visible on the water level (bedrock blocks) and player cannot pass them. The world "size" is 256x256x256 blocks.
 
+*Nether and The End portals do not work in this world.*
+
 ### Ocean
 
 Survival world with hard difficulty and only one biome: Ocean.
@@ -75,6 +79,8 @@ Survival world with hard difficulty and only one biome: Ocean.
 ### Skyblock
 
 Classic Skyblock survival world (normal difficulty).
+
+*Nether and The End portals do not work in this world.*
 
 
 ## Other
