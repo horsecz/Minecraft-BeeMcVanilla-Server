@@ -1233,6 +1233,7 @@
       "apple": "2022-12-15 14:52:36 +0100",
       "potato": "2023-01-07 14:39:40 +0100",
       "bread": "2022-12-20 12:01:08 +0100",
+      "golden_apple": "2024-10-07 15:27:27 +0200",
       "cooked_chicken": "2022-12-15 11:41:57 +0100",
       "cod": "2022-12-27 19:52:17 +0100",
       "cooked_salmon": "2022-12-15 14:04:50 +0100",
@@ -2992,6 +2993,18 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-10-03 13:15:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-10-07 15:26:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-07 15:26:48 +0200"
     },
     "done": true
   },
