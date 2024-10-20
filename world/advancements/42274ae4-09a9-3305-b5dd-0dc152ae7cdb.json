@@ -292,6 +292,7 @@
       "minecraft:magma_cube": "2022-12-27 20:36:34 +0100",
       "minecraft:spider": "2022-12-27 20:07:01 +0100",
       "minecraft:creeper": "2023-01-07 15:36:42 +0100",
+      "minecraft:slime": "2024-10-20 20:12:30 +0200",
       "minecraft:zombified_piglin": "2022-10-15 14:17:10 +0200",
       "minecraft:zombie": "2022-10-22 13:01:14 +0200",
       "minecraft:drowned": "2022-12-29 13:57:52 +0100"
@@ -3035,6 +3036,30 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-10-15 14:26:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-10-20 20:12:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-10-20 20:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-10-20 20:12:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-10-20 20:12:31 +0200"
     },
     "done": true
   },
